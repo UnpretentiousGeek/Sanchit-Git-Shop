@@ -37,4 +37,3 @@ jobs:
     - name: Run main
       run: |
         python main.py
-        pytest
